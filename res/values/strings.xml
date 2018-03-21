@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Текущо местоположение</string>
+    <string name="title_activity_maps">Детайли</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="option_get_place">Избери нова точка</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="title_activity_destination">Добави дестинация</string>
+    <string name="prompt_lat">Географска ширина</string>
+    <string name="prompt_long">Географска дължина</string>
+    <string name="action_add_destination">Добави крайна точка</string>
+</resources>
